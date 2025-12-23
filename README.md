@@ -58,15 +58,11 @@ Secrets Management – Secure handling of sensitive data
 
 Many applications struggle in production due to:
 
-Manual and error-prone infrastructure setup
-
-Unreliable deployment processes
-
-Lack of monitoring and visibility
-
-Poor scalability and security practices
-
-Downtime during application releases
+- Manual and error-prone infrastructure setup
+- Unreliable deployment processes
+- Lack of monitoring and visibility
+- Poor scalability and security practices
+- Downtime during application releases
 
 These challenges often lead to system instability, slow delivery, and increased operational risk.
 
