@@ -13,30 +13,25 @@ The primary goal of this project is to design and implement a complete DevOps li
 
 Key objectives include:
 
-Automating cloud infrastructure using Infrastructure as Code (Terraform)
-
-Building a reliable CI/CD pipeline for continuous delivery
-
-Deploying and managing applications on Kubernetes (EKS)
-
-Ensuring scalability, security, monitoring, and zero-downtime deployments
-
-Applying industry best practices used in production environments
+- Automating cloud infrastructure using Infrastructure as Code (Terraform)
+- Building a reliable CI/CD pipeline for continuous delivery
+- Deploying and managing applications on Kubernetes (EKS)
+- Ensuring scalability, security, monitoring, and zero-downtime deployments
+- Applying industry best practices used in production environments
 
 By the end of the project, the platform is capable of handling real-world workloads with minimal manual intervention.
 
 🛠️ Technology Stack
-Cloud & Infrastructure
 
-AWS – VPC, EC2, EKS, IAM, ECR, S3
+ Cloud & Infrastructure
 
-Terraform – Infrastructure provisioning and management
+- AWS – VPC, EC2, EKS, IAM, ECR, S3
+- Terraform – Infrastructure provisioning and management
 
 CI/CD
 
-GitHub Actions – Automated build, test, scan, and deployment pipelines
-
-Git & GitHub – Version control and collaboration
+-GitHub Actions – Automated build, test, scan, and deployment pipelines
+- Git & GitHub – Version control and collaboration
 
 Containers & Orchestration
 
@@ -86,17 +81,12 @@ These challenges often lead to system instability, slow delivery, and increased 
 
 ProdFlow addresses these challenges by implementing:
 
-Fully automated infrastructure using Terraform
-
-CI/CD pipelines that ensure consistent and repeatable deployments
-
-Containerized applications managed by Kubernetes
-
-Zero-downtime deployments using rolling updates
-
-Centralized monitoring and logging for observability
-
-Security best practices integrated across the stack
+- Fully automated infrastructure using Terraform
+- CI/CD pipelines that ensure consistent and repeatable deployments
+- Containerized applications managed by Kubernetes
+- Zero-downtime deployments using rolling updates
+- Centralized monitoring and logging for observability
+- Security best practices integrated across the stack
 
 The result is a stable, scalable, and production-ready DevOps platform that mirrors real-world engineering workflows.
 
