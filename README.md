@@ -30,34 +30,27 @@ By the end of the project, the platform is capable of handling real-world worklo
 
 CI/CD
 
--GitHub Actions – Automated build, test, scan, and deployment pipelines
+- GitHub Actions – Automated build, test, scan, and deployment pipelines
 - Git & GitHub – Version control and collaboration
 
 Containers & Orchestration
 
-Docker – Containerization of frontend and backend services
-
-Kubernetes (EKS) – Container orchestration and scaling
-
-Nginx Ingress Controller – Traffic routing and load balancing
+- Docker – Containerization of frontend and backend services
+- Kubernetes (EKS) – Container orchestration and scaling
+- Nginx Ingress Controller – Traffic routing and load balancing
 
 Application Stack
 
-Backend – Node.js (Express) or FastAPI
-
-Frontend – React
-
-Web Server – Nginx
+- Backend – Node.js (Express) or FastAPI
+- Frontend – React
+- Web Server – Nginx
 
 Monitoring, Logging & Security
 
-Prometheus – Metrics collection
-
-Grafana – Monitoring dashboards
-
-Loki – Centralized logging
-
-IAM & RBAC – Secure access control
+- Prometheus – Metrics collection
+- Grafana – Monitoring dashboards
+- Loki – Centralized logging
+- IAM & RBAC – Secure access control
 
 Secrets Management – Secure handling of sensitive data
 
